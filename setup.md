@@ -6,7 +6,7 @@ permalink: /setup/
 
 ## Prerequisites
 
-Before installing any of the course-specific packages below, please head over to <https://biosustain.github.io/2016-09-05-software-carpentry/> and
+Before installing any of the course-specific packages below, please head over to <https://djinnome.github.io/cell-factory-design-course/> and
 follow the installation instructions for Python.
 
 ## Installing cameo
@@ -65,4 +65,4 @@ Please create a GitHub account if you don't already own one at <https://github.c
 
 ## Download course materials
 
- You can download all course notebooks at once [here](https://github.com/biosustain/cell-factory-design-course/archive/master.zip).
+ You can download all course notebooks at once [here](https://github.com/djinnome/cell-factory-design-course/archive/master.zip).
