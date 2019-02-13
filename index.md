@@ -50,6 +50,7 @@ Furthermore, all course notebooks can be downloaded at once [here](https://githu
       </tbody></table>
     </div>
 
+##
 ----
 
 > ## Prerequisites
