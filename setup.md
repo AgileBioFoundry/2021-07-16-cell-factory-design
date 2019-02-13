@@ -6,7 +6,7 @@ permalink: /setup/
 
 ## Prerequisites
 
-Before installing any of the course-specific packages below, please head over to <https://djinnome.github.io/cell-factory-design-course/> and
+Before installing any of the course-specific packages below, please head over to <https://pnnl-compbio.github.io/2019-03.14-15-PNNL-SWC/#python> and
 follow the installation instructions for Python.
 
 ## Installing cameo
