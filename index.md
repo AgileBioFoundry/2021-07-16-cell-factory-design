@@ -10,12 +10,12 @@ This two-day hands-on workshop covers the basics of constraint-based modeling of
 
 **Where**:
 
-* 1st day, Room S02, Building 101, DTU main building
-* 2nd day, Room 219, Building 220, DTU Biosustain
+* 1st day, WSU Campus
+* 2nd day, 
 
 **Requirements**: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (the setup instruction can be found [here](setup)). They are also required to abide by Software Carpentry's Code of Conduct.
 
-Contact: Please mail niso@biosustain.dtu.dk for more information.
+Contact: Please mail jeremy.zucker@pnnl.gov for more information.
 
 ## Course materials
 
@@ -24,7 +24,7 @@ Furthermore, all course notebooks can be downloaded at once [here](https://githu
 
 ## Etherpad
 
-<https://pad.carpentries.org/2018-09-10-dtu>
+<https://pad.carpentries.org/2019-02-18-cell-factories>
 
 ## Timing
 
@@ -32,38 +32,21 @@ Furthermore, all course notebooks can be downloaded at once [here](https://githu
     <h3>Day 1</h3>
     <table class="table table-striped">
       <tbody>
-      <tr> <td>09:00</td>  <td>Resolve installation issues</td></tr>
-      <tr> <td>09:30</td>  <td>Episode 1</td></tr>
-      <tr> <td>10:00</td>  <td>Episode 2</td></tr>
-      <tr> <td>10:30</td> <td>Coffee</td> </tr>
-      <tr> <td>10:45</td>  <td>Episode 3</td></tr>
-      <tr> <td>11:30</td>  <td>Episode 4 (part 1)</td></tr>
-      <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-      <tr> <td>13:00</td>  <td>Episode 4 (part 2) </td> </tr>
-      <tr> <td>13:30</td>  <td>Episode 5 </td> </tr>
-      <tr> <td>14:30</td>  <td>Coffee</td> </tr>
-      <tr> <td>14:45</td>  <td>Episode 6</td> </tr>
-      <tr> <td>15:45</td>  <td>Wrap-up</td> </tr>
-      <tr> <td>16:00</td>  <td>End</td> </tr>
+      <tr> <td>10:35</td>  <td>Resolve installation issues</td></tr>
+      <tr> <td>10:45</td>  <td>Episode 1</td></tr>
+      <tr> <td>11:00</td>  <td>Episode 2</td></tr>
+      <tr> <td>11:25</td>  <td>Episode 3</td></tr>
+      <tr> <td>11:50</td>  <td>End</td> </tr>
     </tbody></table>
   </div>
   <div class="col-md-6">
       <h3>Day 2</h3>
       <table class="table table-striped">
         <tbody>
-        <tr> <td>09:00</td>  <td>Episode 7</td> </tr>
-        <tr> <td>10:00</td>  <td>Episode 8 (part 1)</td> </tr>
-        <tr> <td>10:30</td>  <td>Coffee</td> </tr>
-        <tr> <td>10:45</td>  <td>Episode 8 (part 2)</td> </tr>
-        <tr> <td>11:00</td>  <td>Episode 9</td> </tr>
-        <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-        <tr> <td>13:00</td>  <td>Episode 10</td> </tr>
-        <tr> <td>14:00</td>  <td>Episode 11 (part 1)</td> </tr>
-        <tr> <td>14:30</td>  <td>Coffee</td> </tr>
-        <tr> <td>14:45</td>  <td>Episode 11 (part 2)</td> </tr>
-        <tr> <td>15:15</td>  <td>Wrap-up</td> </tr>
-        <tr> <td>15:30</td>  <td>PhD students discussion of projects</td> </tr>
-        <tr> <td>16:00</td>  <td>End</td> </tr>
+        <tr> <td>10:35</td>  <td>Episode 4</td></tr>
+      <tr> <td>11:05</td>  <td>Episode 5 </td> </tr>
+      <tr> <td>11:30</td>  <td>Episode 6</td> </tr>
+        <tr> <td>11:50</td>  <td>End</td> </tr>
       </tbody></table>
     </div>
 
