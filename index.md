@@ -2,7 +2,6 @@
 layout: lesson
 ---
 
-<img src="ABF_Corner_Logo.png" alt="abf_logo">
 ## General information
 
 This two-day hands-on workshop covers the basics of constraint-based modeling of metabolism with a focus on cell factory engineering. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
