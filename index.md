@@ -10,8 +10,8 @@ This two-day hands-on workshop covers the basics of constraint-based modeling of
 
 **Where**:
 
-* 1st day, WSU Campus
-* 2nd day, WSU Campus
+* 1st day, WSU Campus, Tri-Cities
+* 2nd day, WSU Campus, Tri-Cities
 
 **Requirements**: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (the setup instruction can be found [here](setup)). They are also required to abide by Software Carpentry's Code of Conduct.
 
@@ -20,11 +20,11 @@ Contact: Please mail jeremy.zucker@pnnl.gov for more information.
 ## Course materials
 
 The course materials are available under the *Episodes* menu item (see the top of the page).
-Furthermore, all course notebooks can be downloaded at once [here](https://github.com/agilebiofoundry/2019-02.19-21-cell-factory-design-course/archive/master.zip).
+Furthermore, all course notebooks can be downloaded at once [here](https://github.com/agilebiofoundry/2019-02.26-28-cell-factory-design-course/archive/master.zip).
 
 ## Etherpad
 
-<https://pad.carpentries.org/2019-02.19-21-cell-factory-design-course>
+<https://pad.carpentries.org/2019-02.26-28-cell-factory-design-course>
 
 ## Timing
 
