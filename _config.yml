@@ -20,7 +20,7 @@ kind: "lesson"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: biosustain/cell-factory-design-course
+repository: agilebiofoundry/2019-02.26-28-cell-factory-design-course
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
