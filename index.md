@@ -10,8 +10,8 @@ This two-day hands-on workshop covers the basics of constraint-based modeling of
 
 **Where**:
 
-* 1st day, WSU Campus, Tri-Cities
-* 2nd day, WSU Campus, Tri-Cities
+* 1st day, WSU Campus, Tri-Cities and Pullman
+* 2nd day, WSU Campus, Tri-Cities and Pullman
 
 **Requirements**: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (the setup instruction can be found [here](setup)). They are also required to abide by Software Carpentry's Code of Conduct.
 
