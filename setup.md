@@ -4,6 +4,11 @@ title: Setup
 permalink: /setup/
 ---
 
+# Launch the cell factory design course by clicking on the Binder button below:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agilebiofoundry/2019-02.26-28-cell-factory-design-course/master)
+
+# Install the cell factory design course on your own machine
+
 ## Prerequisites
 
 Before installing any of the course-specific packages below, please head over to <https://pnnl-compbio.github.io/2019-03.14-15-PNNL-SWC/#python> and
