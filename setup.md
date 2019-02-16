@@ -9,7 +9,7 @@ permalink: /setup/
 For a zero installation option, launch the cell factory design course by clicking on the Binder button below:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agilebiofoundry/2019-02.26-28-cell-factory-design-course/master)
 
-# Option 2: Install on your own machine using the conda `environment.yml` file
+# Option 2: Install on your own machine
 
 Below are the steps to install the cell factory design course on your own machine
 
@@ -22,7 +22,7 @@ follow the installation instructions for Python.
 
 Please open a shell (terminal) and create a conda environment for the course using the following command.
 
-       conda create -y -f environment.yml
+    conda create -y -f environment.yml
 
 If you're on Linux or OS X or are using the git-bash shell on Windows run
 
