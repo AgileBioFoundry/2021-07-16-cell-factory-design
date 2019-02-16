@@ -4,10 +4,14 @@ title: Setup
 permalink: /setup/
 ---
 
-# Launch the cell factory design course by clicking on the Binder button below:
+# Option 1: Zero Installation
+
+Launch the cell factory design course by clicking on the Binder button below:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agilebiofoundry/2019-02.26-28-cell-factory-design-course/master)
 
-# Install the cell factory design course on your own machine
+# Option 2: Install on your own machine
+
+Install the cell factory design course on your own machine
 
 ## Prerequisites
 
