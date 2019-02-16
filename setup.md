@@ -9,7 +9,7 @@ permalink: /setup/
 For a zero installation option, launch the cell factory design course by clicking on the Binder button below:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agilebiofoundry/2019-02.26-28-cell-factory-design-course/master)
 
-# Option 2: Install on your own machine
+# Option 2: Install on your own machine using the conda `environment.yml` file
 
 Below are the steps to install the cell factory design course on your own machine
 
@@ -18,33 +18,30 @@ Below are the steps to install the cell factory design course on your own machin
 Before installing any of the course-specific packages below, please head over to <https://pnnl-compbio.github.io/2019-03.14-15-PNNL-SWC/#python> and
 follow the installation instructions for Python.
 
-## Installing cameo
+## Create the `cell-factory-design-course` conda environment
 
 Please open a shell (terminal) and create a conda environment for the course using the following command.
 
-    conda create -y --name cell-factory-course python=3.6
+       conda create -y -f environment.yml
 
 If you're on Linux or OS X or are using the git-bash shell on Windows run
 
-    source activate cell-factory-course
+    source activate cell-factory-design-course
 
 to activate the environment. If you're on Windows using the default terminal (cmd) run the following command instead.
 
-    activate cell-factory-course
+    activate cell-factory-design-course
 
 If you successfully activated you're environment, your command prompt will look similar to this.
 
-    (cell-factory-course)$
-
-Then use `pip` to install [cameo](http://cameo.bio) and a few other handy things.
-
-    pip install cameo pandas==0.21.0 escher==1.6.0 plotly==2.0.12 matplotlib==2.1.0
+    (cell-factory-design-course)$
 
 Run the following command to check that the installation was successful (this can take a few seconds).
 
     python -c "from cameo import models;print(models.bigg.e_coli_core.optimize().objective_value)"
 
 The output should be approximately `0.8739`.
+
 
 You also have received an email with with a download link for CPLEX (only intended for academic use). Download the respective installer for your platform and install CPLEX. After you succeeded follow the respective instructions for your platform.
 
@@ -64,14 +61,11 @@ If you installed CPLEX on Windows, `cd` into the following directory first
     
     cd "C:\Program Files\IBM\ILOG\CPLEX_Studio128\cplex\python\3.6\<platform>"
     
-and then run (make sure you activated the `cell-factory-course` environment first)
+and then run (make sure you activated the `cell-factory-design-course` environment first)
 
     pip install .
 
-## Fallback solution
-
-Please create a GitHub account if you don't already own one at <https://github.com/join?source=header-home>. That way we'll be able to provide you with access to a Jupyterhub notebook server that already contains all necessary software pre-installed as a fallback solution in case you run into troubles during the course.
 
 ## Download course materials
 
- You can download all course notebooks at once [here](https://github.com/djinnome/cell-factory-design-course/archive/master.zip).
+ You can download all course notebooks at once [here](https://github.com/agilebiofoundry/cell-factory-design-course/archive/master.zip).
