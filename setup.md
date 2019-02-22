@@ -22,7 +22,7 @@ follow the installation instructions for Python.
 
 Please open a shell (terminal) and create a conda environment for the course using the following command.
 
-    conda create -y -f environment.yml
+    conda env create  -f environment.yml
 
 If you're on Linux or OS X or are using the git-bash shell on Windows run
 
