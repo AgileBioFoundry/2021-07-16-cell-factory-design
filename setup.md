@@ -42,6 +42,9 @@ Run the following command to check that the installation was successful (this ca
 
 The output should be approximately `0.8739`.
 
+Lastly, you need to add this virtual environment to the Jupyter notebook kernel
+
+    python -m ipykernel install --user --name cell-factory-design-course --display-name "cell factory design course"
 
 You also have received an email with with a download link for CPLEX (only intended for academic use). Download the respective installer for your platform and install CPLEX. After you succeeded follow the respective instructions for your platform.
 
