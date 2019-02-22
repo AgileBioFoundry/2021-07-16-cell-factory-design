@@ -1,5 +1,5 @@
 ---
-title: "1. Getting started"
+title: "1. Intro to FBA"
 teaching: 15
 exercises: 15
 questions:
