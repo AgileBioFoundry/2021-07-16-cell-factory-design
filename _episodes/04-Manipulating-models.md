@@ -1,5 +1,5 @@
 ---
-title: "5. Manipulating models"
+title: "4. Manipulating models"
 teaching: 30
 exercises: 30
 questions:

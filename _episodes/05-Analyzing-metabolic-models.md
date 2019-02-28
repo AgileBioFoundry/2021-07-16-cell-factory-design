@@ -1,5 +1,5 @@
 ---
-title: "4. Analyzing metabolic models"
+title: "5. Analyzing metabolic models"
 teaching: 30
 exercises: 30
 questions:
