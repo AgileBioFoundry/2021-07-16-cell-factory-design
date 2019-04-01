@@ -1,3 +1,3 @@
 Launch the course in Binder!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/agilebiofoundry/2019-02.26-28-cell-factory-design-course/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AgileBioFoundry/2019-04.17-cell-factory-design-brownbag/master?filepath=01-Intro-to-FBA.ipynb)
