@@ -71,4 +71,4 @@ and then run (make sure you activated the `cell-factory-design-course` environme
 
 ## Download course materials
 
- You can download all course notebooks at once [here](https://github.com/agilebiofoundry/cell-factory-design-course/archive/master.zip).
+ You can download all course notebooks at once [here](https://github.com/agilebiofoundry/2019-04.17-cell-factory-design-brownbag/archive/master.zip).
