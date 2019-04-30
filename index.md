@@ -23,7 +23,7 @@ Furthermore, all course notebooks can be downloaded at once [here](https://githu
 
 ## Etherpad
 
-<https://pad.carpentries.org/2019-04.17-cell-factory-design-brownbag>
+<https://pad.carpentries.org/2019-05.01-cell-factory-design-brownbag>
 
 ## Timing
 
