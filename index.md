@@ -10,7 +10,7 @@ This brownbag seminar covers the basics of constraint-based modeling of metaboli
 
 **Where**:
 
-* Wednesday, April 17, 2019, 11am-12:00pm [Math College Park Conference room](https://mit2.pnl.gov/?v=map&loc=WA,WARINORTH,MATH,1,1427&cat=crm), Math building, PNNL campus, Richland, WA, 
+* Wednesday, May 1, 2019, 11am-12:00pm BSEL 101
 
 **Requirements**: Participants must bring a laptop with a Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (the setup instruction can be found [here](setup)). They are also required to abide by Software Carpentry's Code of Conduct.
 
@@ -19,7 +19,7 @@ Contact: Please mail jeremy.zucker@pnnl.gov for more information.
 ## Course materials
 
 The course materials are available under the *Episodes* menu item (see the top of the page).
-Furthermore, all course notebooks can be downloaded at once [here](https://github.com/agilebiofoundry/2019-04.17-cell-factory-design-brownbag/archive/master.zip).
+Furthermore, all course notebooks can be downloaded at once [here](https://github.com/agilebiofoundry/2019-05.01-cell-factory-design-brownbag/archive/master.zip).
 
 ## Etherpad
 
@@ -28,26 +28,18 @@ Furthermore, all course notebooks can be downloaded at once [here](https://githu
 ## Timing
 
 <div class="col-md-6">
-    <h3>Day 1</h3>
+    <h3>Schedule</h3>
     <table class="table table-striped">
       <tbody>
-      <tr> <td>11:00</td>  <td>Go to Binder/Jupyter intro</td></tr>
-      <tr> <td>11:15</td>  <td>Episode 1: ABC model of metabolism</td></tr>
-      <tr> <td>11:30</td>  <td>Episode 2: Steady-state behavior</td></tr>
-      <tr> <td>11:45</td>  <td>Episode 3: Cell factory design questions</td></tr>
+      <tr> <td>11:00</td>  <td>1. Binder/Jupyter intro</td></tr>
+      <tr> <td>11:05</td>  <td>2: ABC model of metabolism</td></tr>
+      <tr> <td>11:15</td>  <td>3: Steady-state behavior</td></tr>
+      <tr> <td>11:20</td>  <td>4: Cell factory design questions</td></tr>
+      <tr> <td>11:40</td>  <td>5: Visualizing the Production envelope</td></tr>
+      <tr> <td>11:50</td>  <td>6: Flux variability analysis</td></tr>       
       <tr> <td>12:00</td>  <td>End</td> </tr>
     </tbody></table>
   </div>
-  <div class="col-md-6">
-      <h3>Day 2</h3>
-      <table class="table table-striped">
-        <tbody>
-        <tr> <td>10:35</td>  <td>Episode 4</td></tr>
-      <tr> <td>11:05</td>  <td>Episode 5 </td> </tr>
-      <tr> <td>11:30</td>  <td>Episode 6</td> </tr>
-        <tr> <td>11:50</td>  <td>End</td> </tr>
-      </tbody></table>
-    </div>
 
 ##
 ----
