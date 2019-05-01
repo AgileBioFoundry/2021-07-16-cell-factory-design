@@ -7,7 +7,7 @@ permalink: /setup/
 # Option 1: Launch Binder
 
 For a zero installation option, launch the cell factory design course by clicking on the Binder button:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AgileBioFoundry/2019-04.17-cell-factory-design-brownbag/master?filepath=01-Intro-to-FBA.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AgileBioFoundry/2019-05.01-cell-factory-design-brownbag/master?filepath=01-Intro-to-FBA.ipynb)
 
 # Option 2: Install on your own machine
 
