@@ -40,14 +40,3 @@ Furthermore, all course notebooks can be downloaded at once [here](https://githu
       <tr> <td>12:00</td>  <td>End</td> </tr>
     </tbody></table>
   </div>
-<div>
-    </div>
-
-##
-----
-
-> ## Prerequisites
->
-> Must have attended software carpentry course or have significant programming experience with Python.
-> Learners must install cameo and dependencies before class or use binder: please see [the setup instructions]({{ site.github.url }}/setup/) instructions.
-{: .prereq}
