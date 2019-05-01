@@ -40,6 +40,8 @@ Furthermore, all course notebooks can be downloaded at once [here](https://githu
       <tr> <td>12:00</td>  <td>End</td> </tr>
     </tbody></table>
   </div>
+<div>
+    </div>
 
 ##
 ----
