@@ -39,7 +39,7 @@
 "A":1
 },
 "lower_bound":0,
-"upper_bound":1000,
+"upper_bound":1000.0,
 "gene_reaction_rule":""
 },
 {
@@ -50,7 +50,7 @@
 "B":1
 },
 "lower_bound":0,
-"upper_bound":1000,
+"upper_bound":1000.0,
 "gene_reaction_rule":""
 },
 {
@@ -61,7 +61,7 @@
 "C":1
 },
 "lower_bound":0,
-"upper_bound":1000,
+"upper_bound":1000.0,
 "gene_reaction_rule":""
 },
 {
@@ -73,7 +73,7 @@
 "E":-1
 },
 "lower_bound":0,
-"upper_bound":1000,
+"upper_bound":1000.0,
 "gene_reaction_rule":""
 },
 {
@@ -83,7 +83,7 @@
 "E":1
 },
 "lower_bound":0,
-"upper_bound":1000,
+"upper_bound":1000.0,
 "gene_reaction_rule":""
 },
 {
@@ -95,7 +95,7 @@
 "F":1
 },
 "lower_bound":0,
-"upper_bound":1000,
+"upper_bound":1000.0,
 "gene_reaction_rule":""
 },
 {
@@ -106,7 +106,7 @@
 "D":1
 },
 "lower_bound":0,
-"upper_bound":1000,
+"upper_bound":1000.0,
 "gene_reaction_rule":""
 },
 {
@@ -116,7 +116,7 @@
 "D":-1
 },
 "lower_bound":0,
-"upper_bound":1000,
+"upper_bound":1000.0,
 "gene_reaction_rule":""
 },
 {
@@ -126,7 +126,7 @@
 "F":-1
 },
 "lower_bound":0,
-"upper_bound":1000,
+"upper_bound":1000.0,
 "gene_reaction_rule":""
 }
 ],
