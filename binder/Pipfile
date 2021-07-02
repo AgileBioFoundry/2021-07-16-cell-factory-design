@@ -5,7 +5,10 @@ name = "pypi"
 
 [packages]
 cameo = {extras = ["plotly"], version = "*"}
-
+escher
+pandas
+rise
+matplotlib
 [dev-packages]
 
 [requires]

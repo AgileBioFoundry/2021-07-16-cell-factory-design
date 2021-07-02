@@ -1,0 +1,13 @@
+name: cell-factory-design
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - conda
+  - python
+  - pandas
+  - bokeh
+  - rise
+  - cameo
+  - escher
+  - matplotlib
