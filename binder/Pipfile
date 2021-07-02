@@ -5,10 +5,10 @@ name = "pypi"
 
 [packages]
 cameo = {extras = ["plotly"], version = "*"}
-escher
-pandas
-rise
-matplotlib
+escher = "*"
+pandas = "*"
+rise = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.8"
